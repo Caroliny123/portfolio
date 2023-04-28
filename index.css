@@ -1,0 +1,17 @@
+ *{
+   margin: 0;
+ }
+ a{
+   text-decoration: none;
+   color: white;
+ }
+ 
+ header{
+ background-color: black;
+ display:flex ;
+ align-items: center;
+ color: white;
+ }
+ .titulo{
+   font-size: 48px;
+ }
